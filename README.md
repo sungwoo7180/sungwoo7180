@@ -1,8 +1,9 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Sungwoo Github&fontSize=10px" />
+👋 Hello
 🌱 I’m currently learning SamYook University
+😄 MyPortpolio : [https://praymeyer.notion.site/f9c38c8ae9014d87a632aa8403372ab1?pvs=4](https://praymeyer.notion.site/c424c4c24f4e4c0881ac7afc215ee579)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Thanks for watching&fontSize=10px" />
 
-😄 MyPortpolio : https://praymeyer.notion.site/f9c38c8ae9014d87a632aa8403372ab1?pvs=4
-<a href="https://opgc.me/#/users/sungwoo7180" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/sungwoo7180/tag/?theme=basic" /></a>
 
 <!--
 **sungwoo7180/sungwoo7180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
