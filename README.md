@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&section=header"/>
 👋 Hello
 <br>
 🌱 I’m currently learning SamYook University
@@ -7,17 +7,13 @@
 <br>
 <span style="text-decoration: underline;">이렇게도 표현할 수 있습니다</span>
 <hr>
-
 <h3>Education</h4>
 <hr>
 <li>a</li>
 <li>b</li>
 <li>c</li>
 
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&section=footer"/>
 
 <!--
 **sungwoo7180/sungwoo7180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
