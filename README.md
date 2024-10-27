@@ -1,13 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&section=header"/>
-👋 Hello
+👋 Hello 
 <br>
 🌱 I’m currently learning SamYook University
 <br>
 😄 MyPortpolio : https://praymeyer.notion.site/c424c4c24f4e4c0881ac7afc215ee579
 <br>
-<span style="text-decoration: underline;">이렇게도 표현할 수 있습니다</span>
-<hr>
+<br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sungwoo7180&theme=dark&hide_border=true&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a><hr>
 <h3>Education</h4>
+<!--
+[![sungwoo7180's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungwoo7180)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <hr>
 <li>a</li>
 <li>b</li>
