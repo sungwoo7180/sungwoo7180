@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Sungwoo Github&fontSize=10px" />
 👋 Hello
+<br>
 🌱 I’m currently learning SamYook University
-😄 MyPortpolio : [https://praymeyer.notion.site/f9c38c8ae9014d87a632aa8403372ab1?pvs=4](https://praymeyer.notion.site/c424c4c24f4e4c0881ac7afc215ee579)
+<br>
+😄 MyPortpolio : https://praymeyer.notion.site/c424c4c24f4e4c0881ac7afc215ee579
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Thanks for watching&fontSize=10px" />
 
 
