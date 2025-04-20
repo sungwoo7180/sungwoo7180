@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hello, I'm Seo Sungwoo</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Seo%20Sungwoo&fontSize=50&fontColor=ffffff"/>
 </p>
 
+### 🧠 About Me
+“**같이의 가치를 아는 백엔드 개발자**”  
 <p align="center">
-  🔭 I'm currently learning at <strong>SamYook University</strong><br>
-  🌱 Backend Developer & Cloud Enthusiast<br>
-  📫 Portfolio: <a href="https://praymeyer.notion.site/c424c4c24f4e4c0881ac7afc215ee579">My Notion Portfolio</a>
+  🔭 I'm currently learning at <strong>Java Performance, JVM, DB Tuning  </strong><br>
+  🌱 Backend Developer & DBA Enthusiast<br>
+  📫 Portfolio: <a href="https://praymeyer.notion.site/c424c4c24f4e4c0881ac7afc215ee579">My Notion Portfolio</a><br>
 </p>
 
 ---
@@ -26,19 +26,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sungwoo7180&show_icons=true&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=sungwoo7180&theme=dark&hide_border=true&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungwoo7180&layout=compact&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sungwoo7180&theme=dark" />
 </p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sungwoo7180&title=views)
-
----
-
-### 🧠 About Me
-
-“**같이의 가치를 아는 개발자**”  
-풀스택 개발 부트캠프를 통해 다양한 프로젝트를 경험하고, TDD와 클린 코드를 실천하고 있습니다.
 
 ---
 
